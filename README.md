@@ -1,2 +1,2 @@
 # learning
-trying different models
+Simple Linear regression in Python.
